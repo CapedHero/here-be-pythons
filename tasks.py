@@ -38,7 +38,7 @@ def linters(c):
 
 @invoke.task
 def set_precommit(c):
-    """Set pre-commit Git hook saved in `$PROJECT_ROOT/githooks/pre-commit`."""
+    """Set pre-commit Git Hook saved in `$PROJECT_ROOT/githooks/pre-commit`."""
     c.run(
         'cp githooks/pre-commit .git/hooks/pre-commit '
         '&& chmod +x .git/hooks/pre-commit'

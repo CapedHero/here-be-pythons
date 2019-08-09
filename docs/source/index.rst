@@ -39,7 +39,7 @@ Table of Contents
    python/interpreter-version
    python/dependencies
    python/isort
-   python/yapf
+   python/formatters
    python/flake8
    python/mccabe
    python/bandit
