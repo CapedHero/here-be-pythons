@@ -19,7 +19,7 @@ Black - The Uncompromising Formatter
 
     + All in all, you will save time and mental energy for more important matters than formatting, while keeping your code straight, beautiful and readable.
 
-+ It is recommended to include Black in your linting Invoke task and also to run it during pre-commit Git Hook. Example of both can be found in Big-Bang-py, see `project.py <https://github.com/CapedHero/big-bang-py/blob/74aa5588584f61ad83b6a1078e00911c3cb974f5/%7B%7Bcookiecutter.project_dir%7D%7D/tasks/project.py#L36-L37>`_ and `CI checks <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/githooks/pre-commit#L47-L59>`_ called by `Git Hook <https://github.com/CapedHero/big-bang-py/blob/74aa5588584f61ad83b6a1078e00911c3cb974f5/%7B%7Bcookiecutter.project_dir%7D%7D/ci/ci_checks.py#L43-L54>`_.
++ It is recommended to include Black in your linting Invoke task and also to run it during pre-commit Git Hook. Example of both can be found in Big-Bang-py, see `project.py <https://github.com/CapedHero/big-bang-py/blob/74aa5588584f61ad83b6a1078e00911c3cb974f5/%7B%7Bcookiecutter.project_dir%7D%7D/tasks/project.py#L36-L37>`_ and `CI checks <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/githooks/pre-commit#L47-L59>`_ called by `Git Hook <https://github.com/CapedHero/big-bang-py/blob/74aa5588584f61ad83b6a1078e00911c3cb974f5/%7B%7Bcookiecutter.project_dir%7D%7D/ci/ci_checks.py#L43-L54>`_.
 
 + To manage edge cases, `disable Black <https://github.com/psf/black#the-black-code-style>`_ per block:
 
@@ -51,9 +51,9 @@ YAPF - Google's Alternative
 
     + It is recommended to store the configuration in a properly formatted ``.style.yapf`` file at the root of your project.
 
-    + You may find pre-configured ``.style.yapf`` in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/.style.yapf>`_.
+    + You may find pre-configured ``.style.yapf`` in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/.style.yapf>`_.
 
-+ It is recommended to include YAPF in your linting Invoke task and also to run it during pre-commit Git Hook. Example of both can be found in Big-Bang-py, see `project.py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks/project.py#L37-L38>`_ and `pre-commit <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/githooks/pre-commit#L47-L59>`_.
++ It is recommended to include YAPF in your linting Invoke task and also to run it during pre-commit Git Hook. Example of both can be found in Big-Bang-py, see `project.py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks/project.py#L37-L38>`_ and `pre-commit <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/githooks/pre-commit#L47-L59>`_.
 
 + To manage edge cases, `disable YAPF <https://github.com/google/yapf#why-does-yapf-destroy-my-awesome-formatting>`_:
 

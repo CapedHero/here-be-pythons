@@ -13,7 +13,7 @@ Logging Is a Programmer's Best Friend
 
 + If done right, logging may literally save your day when real problems shred your beautiful code to pieces (especially in the 🔥production environment🔥, where debugging turns into a literal nightmare).
 
-+ It can be tedious to configure the logging yourself. That is why in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/%7B%7Bcookiecutter.project_source_code_dir%7D%7D/logging_config.py>`_ you can find pre-configured setup that is ready-to-go.
++ It can be tedious to configure the logging yourself. That is why in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/%7B%7Bcookiecutter.project_source_code_dir%7D%7D/logging_config.py>`_ you can find pre-configured setup that is ready-to-go.
 
     + In proposed setup logs are streamed to stderr as well as saved in ``$PROJECT_ROOT/logs``.
 

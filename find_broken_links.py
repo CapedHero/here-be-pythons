@@ -8,7 +8,7 @@ from urllib.error import HTTPError, URLError
 
 from dataclasses import dataclass
 
-REQUEST_HEADERS = {'User-Agent': 'https://github.com/RTBHOUSE/here-be-pythons'}
+REQUEST_HEADERS = {'User-Agent': 'https://github.com/CapedHero/here-be-pythons'}
 TIMEOUT_SECONDS = 5
 URL_REGEX = re.compile(
     r'(?:http|ftp|https)://'                    # protocol

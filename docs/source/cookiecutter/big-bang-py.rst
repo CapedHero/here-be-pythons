@@ -3,7 +3,7 @@
 Big-Bang-py
 ===========
 
-To start your new Python project, it is recommended to use `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py>`_ Cookiecutter, as it follows the ideas and principles of Here-Be-Pythons!
+To start your new Python project, it is recommended to use `Big-Bang-py <https://github.com/CapedHero/big-bang-py>`_ Cookiecutter, as it follows the ideas and principles of Here-Be-Pythons!
 
 Moreover, it is maintained by the very same authors 😊, so both projects are promised to be kept in sync 💫.
 
@@ -14,7 +14,7 @@ Usage
 .. code-block:: console
 
     # Generate a new project.
-    > cookiecutter gh:RTBHOUSE/big-bang-py
+    > cookiecutter gh:CapedHero/big-bang-py
 
     # Answer all of the prompted questions.
     # Brackets show default options. Click <enter> if you wish to accept them.

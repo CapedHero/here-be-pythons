@@ -13,9 +13,9 @@ isort - Imports Sorter
 
 + You can specify project level configuration by placing ``.isort.cfg`` file at the root of your project.
 
-    + An example of preconfigured ``.isort.cfg`` is in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/.isort.cfg>`_.
+    + An example of preconfigured ``.isort.cfg`` is in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/.isort.cfg>`_.
 
-+ It is recommended to include isort in your linting Invoke task and also to run it during Pre-commit Git Hook. Example of both can be found in Big-Bang-py, see `project.py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks/project.py#L34-L35>`_ and `pre-commit <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/githooks/pre-commit#L36-L45>`_ files.
++ It is recommended to include isort in your linting Invoke task and also to run it during Pre-commit Git Hook. Example of both can be found in Big-Bang-py, see `project.py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks/project.py#L34-L35>`_ and `pre-commit <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/githooks/pre-commit#L36-L45>`_ files.
 
 + To manage edge cases, `disable isort <https://github.com/timothycrosley/isort#skip-processing-of-imports-outside-of-configuration>`_:
 

@@ -16,11 +16,11 @@ Invoke - Manage & Execute Tasks
 
     + Invoke can be easily buffed with `shell tab completion <http://docs.pyinvoke.org/en/1.2/invoke.html#shell-tab-completion>`_.
 
-      If you work on your projects using ``bash`` with virtualenv, a ready-2-go installation script can be found in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/invoke_bash_completion>`_. If your development environment differs, this script can still give you a basis, or at least a hint, how to build a solution of your own.
+      If you work on your projects using ``bash`` with virtualenv, a ready-2-go installation script can be found in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/invoke_bash_completion>`_. If your development environment differs, this script can still give you a basis, or at least a hint, how to build a solution of your own.
 
-+ Invoke tasks are normal Python functions organised in ``tasks.py`` file or `tasks Python package <https://github.com/RTBHOUSE/big-bang-py/tree/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks>`_.
++ Invoke tasks are normal Python functions organised in ``tasks.py`` file or `tasks Python package <https://github.com/CapedHero/big-bang-py/tree/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks>`_.
 
-    + You may find examples of Invoke tasks in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks>`_.
+    + You may find examples of Invoke tasks in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/tasks>`_.
 
 + Docstrings of functions implementing Invoke tasks are automatically formatted into a command line help:
 

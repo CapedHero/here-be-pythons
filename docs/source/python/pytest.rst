@@ -31,7 +31,7 @@ Pytest - Test Framework
 
     + Runs ``unittest`` and ``nose`` test suites out-of-the-box.
 
-+ You can easily set test runner default flags by defining them in a configuration file called ``pytest.ini``. You can find an example in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/pytest.ini>`_.
++ You can easily set test runner default flags by defining them in a configuration file called ``pytest.ini``. You can find an example in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/pytest.ini>`_.
 
 + Recommended test runner plugins:
 

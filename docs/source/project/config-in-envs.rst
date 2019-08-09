@@ -15,4 +15,4 @@ Store config in ENVs
 
 + Usually there are multiple ENV files e.g. a separate version for development, staging and production.
 
-    + It is convenient to organise those ENVs in one location. An example of such organisation is present in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/tree/master/%7B%7Bcookiecutter.project_dir%7D%7D/envs>`_. As a bonus, you can find there Python ENVs loader based on `python-dotenv <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/envs/loader.py>`_.
+    + It is convenient to organise those ENVs in one location. An example of such organisation is present in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/tree/master/%7B%7Bcookiecutter.project_dir%7D%7D/envs>`_. As a bonus, you can find there Python ENVs loader based on `python-dotenv <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/envs/loader.py>`_.

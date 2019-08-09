@@ -75,7 +75,7 @@ Proposed workflow
    # You can handle the above shell commands via Invoke tasks.
    # See an example: https://git.io/fjcZ6
 
-+ `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py>`_ is based on the above workflow.
++ `Big-Bang-py <https://github.com/CapedHero/big-bang-py>`_ is based on the above workflow.
 
 + Remember that both abstract and locked dependencies should be checked in the Git repository.
 

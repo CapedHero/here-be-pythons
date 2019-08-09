@@ -13,4 +13,4 @@
 
 + Alternatively, it is possible to generate ``.gitignore`` online using `gitignore.io <https://www.gitignore.io>`_.
 
-+ You may find an example of ``.gitignore`` for Python project in `Big-Bang-py <https://github.com/RTBHOUSE/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/.gitignore>`_.
++ You may find an example of ``.gitignore`` for Python project in `Big-Bang-py <https://github.com/CapedHero/big-bang-py/blob/master/%7B%7Bcookiecutter.project_dir%7D%7D/.gitignore>`_.

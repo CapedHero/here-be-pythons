@@ -83,7 +83,7 @@ html_show_sourcelink = False
 # VCS options: https://docs.readthedocs.io/en/latest/vcs.html#github
 html_context = {
     'display_github': True,  # Integrate GitHub
-    'github_user': 'RTBHOUSE',  # Username
+    'github_user': 'CapedHero',  # Username
     'github_repo': 'here-be-pythons',  # Repo name
     'github_version': 'master',  # Version
     'conf_py_path': '/docs/',  # Path in the checkout to the docs root
